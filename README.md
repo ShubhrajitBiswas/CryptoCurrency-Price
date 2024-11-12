@@ -20,7 +20,7 @@ This is a simple cryptocurrency dashboard that allows users to view the latest p
 
 1. **Clone this repository** to your local machine:
     ```bash
-    git clone https://github.com/yourusername/cryptocurrency-dashboard.git
+    git clone https://github.com/ShubhrajitBiswas/cryptocurrency-dashboard.git
     ```
 
 2. **API Integration**: The project currently uses a cryptocurrency API to fetch real-time coin prices. You will need to use your own API or integrate the [CryptoCompare API](https://min-api.cryptocompare.com) or any other cryptocurrency price API.
