@@ -52,6 +52,3 @@ This is a simple cryptocurrency dashboard that allows users to view the latest p
 
 Feel free to fork this repository, submit issues, and contribute to the project!
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
